@@ -26,6 +26,8 @@ The assigned idea will be a quintessential CRUD application: the social network 
 
 We've built various parts of it in phases, but now you'll be starting from a blank application and building it all out, given the target behavior.
 
+Expect a challenging project with many steps, including some that we did not cover in class, but for which we provide written guides to work through.
+
 ## Your own idea
 
 If you choose to build your own idea, then you should [read the longer description located here](https://learn.firstdraft.com/lessons/242-planning-your-idea). It boils down to: keep it simple. We can always add features after reaching our first target, or after the quarter is over, and quite often do.
